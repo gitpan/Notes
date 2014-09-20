@@ -1,5 +1,0 @@
-LIBRARY "Document"
-EXPORTS
-  boot_Notes__Document
-  _boot_Notes__Document = boot_Notes__Document
-  

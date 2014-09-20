@@ -1,5 +1,0 @@
-LIBRARY "Name"
-EXPORTS
-  boot_Notes__Name
-  _boot_Notes__Name = boot_Notes__Name
-  

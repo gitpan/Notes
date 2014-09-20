@@ -1,5 +1,0 @@
-LIBRARY "Database"
-EXPORTS
-  boot_Notes__Database
-  _boot_Notes__Database = boot_Notes__Database
-  

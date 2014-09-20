@@ -1,9 +1,0 @@
-Changes
-Makefile.PL
-MANIFEST
-notessession.c
-notessession.h
-README
-Session.pm
-Session.xs
-test.pl

@@ -1,0 +1,22 @@
+---
+abstract: 'return the 8 notes of your keynote.'
+author:
+  - 'Renan <renan.azevedo.carvalho@gmail.com>'
+build_requires: {}
+configure_requires:
+  ExtUtils::MakeMaker: '0'
+dynamic_config: 0
+generated_by: 'Dist::Zilla version 5.020, CPAN::Meta::Converter version 2.142060'
+license: perl
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: '1.4'
+name: Notes
+requires:
+  Const::Fast: '0'
+  strict: '0'
+  warnings: '0'
+resources:
+  bugtracker: https://github.com/renancarvalhoo/Notes
+  repository: https://github.com/renancarvalhoo/Notes
+version: '0.001'
